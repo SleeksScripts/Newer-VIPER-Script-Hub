@@ -1,0 +1,113 @@
+--VIPER SCRIPT HUB
+--JOIN THE DISCORD - https://discord.gg/ZjnMetfUDN
+
+--VIPER SCRIPT HUB
+--JOIN THE DISCORD - https://discord.gg/ZjnMetfUDN
+
+--VIPER SCRIPT HUB
+--JOIN THE DISCORD - https://discord.gg/ZjnMetfUDN
+
+--VIPER SCRIPT HUB
+--JOIN THE DISCORD - https://discord.gg/ZjnMetfUDN
+
+--VIPER SCRIPT HUB
+--JOIN THE DISCORD - https://discord.gg/ZjnMetfUDN
+
+--VIPER SCRIPT HUB
+--JOIN THE DISCORD - https://discord.gg/ZjnMetfUDN
+
+
+--VIPER SCRIPT HUB
+--JOIN THE DISCORD - https://discord.gg/ZjnMetfUDN
+
+
+--VIPER SCRIPT HUB
+--JOIN THE DISCORD - https://discord.gg/ZjnMetfUDN
+
+--VIPER SCRIPT HUB
+--JOIN THE DISCORD - https://discord.gg/ZjnMetfUDN
+
+--VIPER SCRIPT HUB
+--JOIN THE DISCORD - https://discord.gg/ZjnMetfUDN
+
+--VIPER SCRIPT HUB
+--JOIN THE DISCORD - https://discord.gg/ZjnMetfUDN
+
+--VIPER SCRIPT HUB
+--JOIN THE DISCORD - https://discord.gg/ZjnMetfUDN
+
+--VIPER SCRIPT HUB
+--JOIN THE DISCORD - https://discord.gg/ZjnMetfUDN
+
+--VIPER SCRIPT HUB
+--JOIN THE DISCORD - https://discord.gg/ZjnMetfUDN
+
+
+
+
+
+    if game.PlaceId == 10631181587 then
+    loadstring(game:HttpGet"https://raw.githubusercontent.com/SleeksScripts/Stone-Miner-Simulator-2-Script/main/Script")()
+       
+        end
+    
+
+        if game.PlaceId == 10925589760 then
+            loadstring(game:HttpGet("https://raw.githubusercontent.com/SleeksScripts/Merge-Simulator-Script/main/Script"))()
+        end
+    
+    
+
+        if game.PlaceId == 8884334497 then
+            loadstring(game:HttpGet('https://raw.githubusercontent.com/SleeksScripts/Mining-Clicking-Sim-Script/main/Script'))()
+        
+        end
+    
+
+        if game.PlaceId == 10859465529 then
+            loadstring(game:HttpGet("https://raw.githubusercontent.com/SleeksScripts/Pls-Capture-Script-3/main/script"))()
+        
+        end
+
+
+        if game.PlaceId == 8726743209 then
+            loadstring(game:HttpGet("https://gist.githubusercontent.com/Shag420/5bc731509321c89b29f891790269eab8/raw"))() 
+            
+            end
+
+            if game.PlaceId == 8726743209 then
+                loadstring(game:HttpGet("https://raw.githubusercontent.com/samuelrblx/Bruhnhe/main/Hub"))()
+            
+            end
+
+
+            if game.PlaceId == 8750997647 then
+                loadstring(game:HttpGet('https://raw.githubusercontent.com/SleeksScripts/Tapping-Legends-X-Script/main/Script'))()
+            
+            end
+
+            if game.PlaceId == 9498006165 then
+                loadstring(game:HttpGet('https://raw.githubusercontent.com/SleeksScripts/Tapping-Simulator-Script/main/Tapping%20Simulator%20Script%20Source'))()
+        
+                
+            end
+
+
+
+            if game.PlaceId == 9648883891 then
+                loadstring(game:HttpGet('https://raw.githubusercontent.com/SleeksScripts/Festival-Tycoon-Script/main/Script'))();
+        
+            end
+
+
+            
+            if game.PlaceId == 8908228901 then
+                loadstring(game:HttpGet('https://raw.githubusercontent.com/SleeksScripts/Sharkbite-2-script/main/Script'))()
+        
+            end
+
+            
+            if game.PlaceId == 8712817601 then
+                loadstring(game:HttpGet"https://raw.githubusercontent.com/SleeksScripts/Barry-Prision-Run-Script/main/Script")()
+            end
+    
