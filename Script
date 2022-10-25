@@ -115,4 +115,7 @@
                 loadstring(game:HttpGet("https://raw.githubusercontent.com/SleeksScripts/Wild-Horse-Island-Script/main/Script"))()
             end
             
-    
+            if game.PlaceId == 8704997000 then
+                loadstring(game:HttpGet"https://raw.githubusercontent.com/SleeksScripts/Maple-Hospital-Script/main/Script")()
+            end
+        
