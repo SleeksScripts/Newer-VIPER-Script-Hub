@@ -119,3 +119,9 @@
                 loadstring(game:HttpGet"https://raw.githubusercontent.com/SleeksScripts/Maple-Hospital-Script/main/Script")()
             end
         
+         
+            if game.PlaceId == 6403373529 then
+                loadstring(game:HttpGet('https://raw.githubusercontent.com/SleeksScripts/Slap-Battles-Script/main/Script'))()
+            end
+        
+
