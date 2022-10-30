@@ -125,3 +125,9 @@
             end
         
 
+   if game.PlaceId == 5895971007 then
+                loadstring(game:HttpGet('https://raw.githubusercontent.com/SleeksScripts/Allusions-Script/main/Script'))()
+            end
+        
+
+
