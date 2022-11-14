@@ -129,5 +129,10 @@
                 loadstring(game:HttpGet('https://raw.githubusercontent.com/SleeksScripts/Allusions-Script/main/Script'))()
             end
         
+ if game.PlaceId == 11137575513 then
+               loadstring(game:HttpGet('https://raw.githubusercontent.com/SleeksScripts/The-Chosen-One-Script/main/Script'))()
+            end
+        
+
 
 
