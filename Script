@@ -138,6 +138,11 @@
             end
             
             
+             if game.PlaceId == 9834528893 then
+               loadstring(game:HttpGet"https://raw.githubusercontent.com/SleeksScripts/-1-jump-every-second-script/main/Script")()
+            end
+            
+            
         
 
 
