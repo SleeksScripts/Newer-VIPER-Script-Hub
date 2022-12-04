@@ -143,7 +143,10 @@
             end
             
             
-        
+         if game.PlaceId == 8506369721 then
+               loadstring(game:HttpGet"https://raw.githubusercontent.com/SleeksScripts/Dig-to-China-Script/main/Script")()
+            end
+            
 
 
 
