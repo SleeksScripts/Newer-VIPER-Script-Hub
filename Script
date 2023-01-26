@@ -148,5 +148,10 @@
             end
             
 
+    if game.PlaceId == 11156779721 then
+               loadstring(game:HttpGet"https://raw.githubusercontent.com/SleeksScripts/SurvivalSomething/main/Script")()
+            end
+            
+
 
 
