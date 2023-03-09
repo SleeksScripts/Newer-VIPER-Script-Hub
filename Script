@@ -152,6 +152,7 @@
                loadstring(game:HttpGet"https://raw.githubusercontent.com/SleeksScripts/SurvivalSomething/main/Script")()
             end
             
+ if game.PlaceId == 8568266872 then
+  loadstring(game:HttpGet"https://raw.githubusercontent.com/SleeksScripts/Save-the-princess-script/main/Script")()
 
-
-
+end
