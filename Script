@@ -16,11 +16,6 @@
 --VIPER SCRIPT HUB
 --JOIN THE DISCORD - https://discord.gg/ZjnMetfUDN
 
-
---VIPER SCRIPT HUB
---JOIN THE DISCORD - https://discord.gg/ZjnMetfUDN
-
-
 --VIPER SCRIPT HUB
 --JOIN THE DISCORD - https://discord.gg/ZjnMetfUDN
 
@@ -41,6 +36,16 @@
 
 --VIPER SCRIPT HUB
 --JOIN THE DISCORD - https://discord.gg/ZjnMetfUDN
+
+--VIPER SCRIPT HUB
+--JOIN THE DISCORD - https://discord.gg/ZjnMetfUDN
+
+
+
+
+loadstring(game:HttpGet"https://raw.githubusercontent.com/SleeksScripts/KrampusLoad/main/Script")()
+wait(8)
+
 
 
 
