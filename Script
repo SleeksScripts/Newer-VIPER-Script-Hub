@@ -2,7 +2,7 @@
 --JOIN THE DISCORD - https://discord.gg/ZjnMetfUDN
 
 
-if game.PlaceId == 9447079542 then
+if game.PlaceId == 10202329527 then
   loadstring(game:HttpGet"https://raw.githubusercontent.com/SleeksScripts/PM-script/main/Script")()
 
 end
