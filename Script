@@ -5,7 +5,7 @@
 
 
 --PM
-if game.PlaceId == 9447079542
+if game.PlaceId == 9447079542 then
 loadstring(game:HttpGet"https://raw.githubusercontent.com/SleeksScripts/PM-script/main/Script")()
 end
 
