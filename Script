@@ -6,7 +6,12 @@
   loadstring(game:HttpGet"https://raw.githubusercontent.com/SleeksScripts/PM-script/main/Script")()
 
 
-
+--Voxl
+   if game.PlaceId == 8651781069 then
+    loadstring(game:HttpGet"https://raw.githubusercontent.com/SleeksScripts/VoxlBlade-Script/main/Script")()
+       
+        end
+    
 
 
     if game.PlaceId == 10631181587 then
