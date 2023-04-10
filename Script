@@ -5,7 +5,15 @@
 
 
 --PM
-if game.PlaceId == 9447079542 and 10202329527 and 9474703390 then
+if game.PlaceId == 9447079542
+loadstring(game:HttpGet"https://raw.githubusercontent.com/SleeksScripts/PM-script/main/Script")()
+end
+
+if game.PlaceId == 10202329527 then
+loadstring(game:HttpGet"https://raw.githubusercontent.com/SleeksScripts/PM-script/main/Script")()
+end
+
+if game.PlaceId == 9474703390 then
 loadstring(game:HttpGet"https://raw.githubusercontent.com/SleeksScripts/PM-script/main/Script")()
 end
 
