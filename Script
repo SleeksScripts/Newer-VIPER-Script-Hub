@@ -1,132 +1,101 @@
+
 --VIPER SCRIPT HUB
 --JOIN THE DISCORD - https://discord.gg/ZjnMetfUDN
 
 
+
 --PM
-  
-if game.PlaceId == 9447079542 or 10202329527 or 9474703390 then
-    loadstring(game:HttpGet"https://raw.githubusercontent.com/SleeksScripts/PM-script/main/Script")()
-       
-        end
-
---Voxl
-   if game.PlaceId == 8651781069 then
-    loadstring(game:HttpGet"https://raw.githubusercontent.com/SleeksScripts/VoxlBlade-Script/main/Script")()
-       
-        end
-    
-
-
-    if game.PlaceId == 10631181587 then
-    loadstring(game:HttpGet"https://raw.githubusercontent.com/SleeksScripts/Stone-Miner-Simulator-2-Script/main/Script")()
-       
-        end
-    
-
-        if game.PlaceId == 10925589760 then
-            loadstring(game:HttpGet("https://raw.githubusercontent.com/SleeksScripts/Merge-Simulator-Script/main/Script"))()
-        end
-    
-    
-
-        if game.PlaceId == 8884334497 then
-            loadstring(game:HttpGet('https://raw.githubusercontent.com/SleeksScripts/Mining-Clicking-Sim-Script/main/Script'))()
-        
-        end
-    
-
-        if game.PlaceId == 10859465529 then
-            loadstring(game:HttpGet("https://raw.githubusercontent.com/SleeksScripts/Pls-Capture-Script-3/main/script"))()
-        
-        end
-
-
-        if game.PlaceId == 8726743209 then
-            loadstring(game:HttpGet("https://gist.githubusercontent.com/Shag420/5bc731509321c89b29f891790269eab8/raw"))() 
-            
-            end
-
-            if game.PlaceId == 8726743209 then
-                loadstring(game:HttpGet("https://raw.githubusercontent.com/samuelrblx/Bruhnhe/main/Hub"))()
-            
-            end
-
-
-            if game.PlaceId == 8750997647 then
-                loadstring(game:HttpGet('https://raw.githubusercontent.com/SleeksScripts/Tapping-Legends-X-Script/main/Script'))()
-            
-            end
-
-            if game.PlaceId == 9498006165 then
-                loadstring(game:HttpGet('https://raw.githubusercontent.com/SleeksScripts/Tapping-Simulator-Script/main/Tapping%20Simulator%20Script%20Source'))()
-        
-                
-            end
-
-
-
-            if game.PlaceId == 9648883891 then
-                loadstring(game:HttpGet('https://raw.githubusercontent.com/SleeksScripts/Festival-Tycoon-Script/main/Script'))();
-        
-            end
-
-
-            
-            if game.PlaceId == 8908228901 then
-                loadstring(game:HttpGet('https://raw.githubusercontent.com/SleeksScripts/Sharkbite-2-script/main/Script'))()
-        
-            end
-
-            
-            if game.PlaceId == 8712817601 then
-                loadstring(game:HttpGet"https://raw.githubusercontent.com/SleeksScripts/Barry-Prision-Run-Script/main/Script")()
-            end
-            
-              if game.PlaceId == 6989310863 then
-                loadstring(game:HttpGet("https://raw.githubusercontent.com/SleeksScripts/Wild-Horse-Island-Script/main/Script"))()
-            end
-            
-            if game.PlaceId == 8704997000 then
-                loadstring(game:HttpGet"https://raw.githubusercontent.com/SleeksScripts/Maple-Hospital-Script/main/Script")()
-            end
-        
-         
-            if game.PlaceId == 6403373529 then
-                loadstring(game:HttpGet('https://raw.githubusercontent.com/SleeksScripts/Slap-Battles-Script/main/Script'))()
-            end
-        
-
-   if game.PlaceId == 5895971007 then
-                loadstring(game:HttpGet('https://raw.githubusercontent.com/SleeksScripts/Allusions-Script/main/Script'))()
-            end
-        
- if game.PlaceId == 11137575513 then
-               loadstring(game:HttpGet('https://raw.githubusercontent.com/SleeksScripts/The-Chosen-One-Script/main/Script'))()
-            end
-            
-             if game.PlaceId == 10053187005 then
-               loadstring(game:HttpGet"https://raw.githubusercontent.com/SleeksScripts/Counter-Blox-Reimagined/main/Script")()
-            end
-            
-            
-             if game.PlaceId == 9834528893 then
-               loadstring(game:HttpGet"https://raw.githubusercontent.com/SleeksScripts/-1-jump-every-second-script/main/Script")()
-            end
-            
-            
-         if game.PlaceId == 8506369721 then
-               loadstring(game:HttpGet"https://raw.githubusercontent.com/SleeksScripts/Dig-to-China-Script/main/Script")()
-            end
-            
-
-    if game.PlaceId == 11156779721 then
-               loadstring(game:HttpGet"https://raw.githubusercontent.com/SleeksScripts/SurvivalSomething/main/Script")()
-            end
-            
- if game.PlaceId == 8568266872 then
-  loadstring(game:HttpGet"https://raw.githubusercontent.com/SleeksScripts/Save-the-princess-script/main/Script")()
-
+if game.PlaceId == 9447079542 and 10202329527 and 9474703390 then
+loadstring(game:HttpGet"https://raw.githubusercontent.com/SleeksScripts/PM-script/main/Script")()
 end
 
+--Voxl
+if game.PlaceId == 8651781069 then
+loadstring(game:HttpGet"https://raw.githubusercontent.com/SleeksScripts/VoxlBlade-Script/main/Script")()
+end
+
+if game.PlaceId == 10631181587 then
+loadstring(game:HttpGet"https://raw.githubusercontent.com/SleeksScripts/Stone-Miner-Simulator-2-Script/main/Script")()
+end
+
+if game.PlaceId == 10925589760 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SleeksScripts/Merge-Simulator-Script/main/Script"))()
+end
+
+if game.PlaceId == 8884334497 then
+loadstring(game:HttpGet('https://raw.githubusercontent.com/SleeksScripts/Mining-Clicking-Sim-Script/main/Script'))()
+end
+
+if game.PlaceId == 10859465529 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SleeksScripts/Pls-Capture-Script-3/main/script"))()
+end
+
+if game.PlaceId == 8726743209 then
+loadstring(game:HttpGet("https://gist.githubusercontent.com/Shag420/5bc731509321c89b29f891790269eab8/raw"))() 
+end
+
+if game.PlaceId == 8726743209 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/samuelrblx/Bruhnhe/main/Hub"))()
+end
+
+if game.PlaceId == 8750997647 then
+loadstring(game:HttpGet('https://raw.githubusercontent.com/SleeksScripts/Tapping-Legends-X-Script/main/Script'))()
+end
+
+if game.PlaceId == 9498006165 then
+loadstring(game:HttpGet('https://raw.githubusercontent.com/SleeksScripts/Tapping-Simulator-Script/main/Tapping%20Simulator%20Script%20Source'))()
+end
+
+if game.PlaceId == 9648883891 then
+loadstring(game:HttpGet('https://raw.githubusercontent.com/SleeksScripts/Festival-Tycoon-Script/main/Script'))();
+end
+
+if game.PlaceId == 8908228901 then
+loadstring(game:HttpGet('https://raw.githubusercontent.com/SleeksScripts/Sharkbite-2-script/main/Script'))()
+end
+
+if game.PlaceId == 8712817601 then
+loadstring(game:HttpGet"https://raw.githubusercontent.com/SleeksScripts/Barry-Prision-Run-Script/main/Script")()
+end
+
+if game.PlaceId == 6989310863 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SleeksScripts/Wild-Horse-Island-Script/main/Script"))()
+end
+
+if game.PlaceId == 8704997000 then
+loadstring(game:HttpGet"https://raw.githubusercontent.com/SleeksScripts/Maple-Hospital-Script/main/Script")()
+end
+
+if game.PlaceId == 6403373529 then
+loadstring(game:HttpGet('https://raw.githubusercontent.com/SleeksScripts/Slap-Battles-Script/main/Script'))()
+end
+
+if game.PlaceId == 5895971007 then
+loadstring(game:HttpGet('https://raw.githubusercontent.com/SleeksScripts/Allusions-Script/main/Script'))()
+end
+
+if game.PlaceId == 11137575513 then
+loadstring(game:HttpGet('https://raw.githubusercontent.com/SleeksScripts/The-Chosen-One-Script/main/Script'))()
+end
+
+if game.PlaceId == 10053187005 then
+loadstring(game:HttpGet"https://raw.githubusercontent.com/SleeksScripts/Counter-Blox-Reimagined/main/Script")()
+end
+
+if game.PlaceId == 9834528893 then
+loadstring(game:HttpGet"https://raw.githubusercontent.com/SleeksScripts/-1-jump-every-second-script/main/Script")()
+end
+      
+if game.PlaceId == 8506369721 then
+    loadstring(game:HttpGet"https://raw.githubusercontent.com/SleeksScripts/Dig-to-China-Script/main/Script")()
+end
+
+if game.PlaceId == 11156779721 then
+loadstring(game:HttpGet"https://raw.githubusercontent.com/SleeksScripts/SurvivalSomething/main/Script")()
+end
+
+if game.PlaceId == 8568266872 then
+loadstring(game:HttpGet"https://raw.githubusercontent.com/SleeksScripts/Save-the-princess-script/main/Script")()
+end
 
 
