@@ -3,8 +3,11 @@
 
 
 --PM
-  loadstring(game:HttpGet"https://raw.githubusercontent.com/SleeksScripts/PM-script/main/Script")()
-
+  
+if game.PlaceId == 9447079542 or 10202329527 or 9474703390 then
+    loadstring(game:HttpGet"https://raw.githubusercontent.com/SleeksScripts/PM-script/main/Script")()
+       
+        end
 
 --Voxl
    if game.PlaceId == 8651781069 then
