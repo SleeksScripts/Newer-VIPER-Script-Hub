@@ -2,12 +2,17 @@
 --VIPER SCRIPT HUB
 --JOIN THE DISCORD - https://discord.gg/ZjnMetfUDN
 
+--Wild Horse Islands
+if game.PlaceId == 6989310863 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SleeksScripts/trial-script-whi/main/Script"))()
+end
 
 
 --PM
 if game.PlaceId == 9447079542 then
 loadstring(game:HttpGet"https://raw.githubusercontent.com/SleeksScripts/PM-script/main/Script")()
 end
+
 
 if game.PlaceId == 10202329527 then
 loadstring(game:HttpGet"https://raw.githubusercontent.com/SleeksScripts/PM-script/main/Script")()
